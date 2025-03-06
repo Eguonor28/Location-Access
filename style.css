@@ -43,7 +43,7 @@ form {
   max-width: 550px;
   border-radius: 20px;
   margin-top: 70px;
-  height: 80vh;
+  /* height: 80vh; */
   box-shadow: 0 3px 3px #0b58cd1f;
 }
 .data_img {
@@ -68,8 +68,8 @@ form {
 
 button {
   width: 300px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 h1 {
   font-size: 30px;
